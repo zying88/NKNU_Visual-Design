@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="作品介紹.html" />
     <Content Include="作品集\作品1.html" />
+    <Content Include="作品集\作品2.html" />
     <Content Include="包裝類.html" />
     <Content Include="周邊商品.html" />
     <Content Include="多媒體類.html" />
